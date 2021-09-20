@@ -10,7 +10,7 @@ Start by installing sitespeed.io and clone this repo:
 1. `npm install -g sitespeed.io`
 2. `git clone git@github.com:sitespeedio/replay.git`
 
-Go into the cloned repl and then you can use our example configuration files to run the tests.
+Go into the cloned repo and then you can use our example configuration files to run the tests.
 
 ### Testing desktop
 
